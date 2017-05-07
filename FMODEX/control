@@ -1,0 +1,8 @@
+Package: libfmodex-devel
+Section: devel
+Priority: extra
+Architecture: all
+Maintainer: Philipp Schroeck <philsch_at_hotmail.de>
+Installed-Size: 330
+Homepage: http://www.fmod.org/
+Description: An advanced audio engine 

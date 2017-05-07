@@ -1,0 +1,16 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=CRMP
+GenericName=CRMP
+X-GNOME-FullName=Classic Ramona Media Player
+Comment=Musik Player
+Exec=crmp %U
+TryExec=/usr/bin/crmp
+StartupNotify=true
+Terminal=false
+Type=Application
+Icon=/usr/share/icons/crmp/application_crmp.png
+Categories=AudioVideo;Qt;Player;
+MimeType=application/ogg;application/x-ogg;audio/x-vorbis+ogg;audio/x-mp3;audio/x-mpeg;audio/mpeg;audio/x-wav;audio/x-mpegurl;application/x-flac;audio/x-flac;audio/x-pn-aiff;audio/x-pn-au;audio/x-pn-wav;audio/x-pn-windows-acm;x-content/audio-player;
+X-KDE-Protocols=ftp,http,https,smb
+Keywords=Player;Audio;

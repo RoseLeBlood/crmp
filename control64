@@ -1,0 +1,10 @@
+Package: crmp-amd64
+Section: x11
+Priority: extra
+Architecture: amd64
+Depends: libqt4-core, libqt4-opengl, libfmodex-devel
+Installed-Size: 330
+Maintainer: Philipp Schroeck <philsch@hotmail.de>
+Homepage: http://code.google.com/p/crmp/
+Description: Classic Ramona Audio Player
+Version:  0.50.25

@@ -1,0 +1,4 @@
+DSP plugins must install in /usr/share/crmp 
+and rename the plugin from *.so to *.dsp
+
+thanks
